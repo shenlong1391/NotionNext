@@ -27,7 +27,7 @@ const BLOG = {
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '咪咪i参禅', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个机缘', // 作者简介
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://mmi.cc', // 网站地址
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '阴阳,八卦,五行', // 网站关键词 英文逗号隔开
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '借势,金枪大叔,八卦,参禅', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'qq@mmi.cc', // 邮箱地址 例如mail@tangly1024.com
